@@ -2739,6 +2739,7 @@
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.6.tgz#628effeeae2064a1b4e79f78e81d87b7e5fc7b50"
   integrity sha512-AYnb1nQyY49te+VRAVgmzfcgjYS91mY5P0TKUDCLEM+gNnA+3T6rWITXRLYCpahpqSQbN5cE+gHpnPyXjHWxcw==
+
 "@types/filesystem@*":
   version "0.0.36"
   resolved "https://registry.yarnpkg.com/@types/filesystem/-/filesystem-0.0.36.tgz#7227c2d76bfed1b21819db310816c7821d303857"
@@ -4442,6 +4443,7 @@ cssesc@^3.0.0:
 
 cssom@^0.4.4, cssom@^0.5.0, "cssom@https://registry.npmjs.org/rrweb-cssom/-/rrweb-cssom-0.6.0.tgz", cssom@~0.3.6:
   version "0.6.0"
+  uid ed298055b97cbddcdeb278f904857629dec5e0e1
   resolved "https://registry.npmjs.org/rrweb-cssom/-/rrweb-cssom-0.6.0.tgz#ed298055b97cbddcdeb278f904857629dec5e0e1"
 
 cssstyle@^2.3.0:
@@ -5454,10 +5456,10 @@ fd-slicer@~1.1.0:
   dependencies:
     pend "~1.2.0"
 
-fflate@^0.4.4:
-  version "0.4.8"
-  resolved "https://registry.yarnpkg.com/fflate/-/fflate-0.4.8.tgz#f90b82aefbd8ac174213abb338bd7ef848f0f5ae"
-  integrity sha512-FJqqoDBR00Mdj9ppamLa/Y7vxm+PRmNWA67N846RvsoYVMKB4q3y/de5PA7gUmRMYK/8CMz2GDZQmCRN1wBcWA==
+fflate@^0.4.9:
+  version "0.4.9"
+  resolved "https://registry.yarnpkg.com/fflate/-/fflate-0.4.9.tgz#b5d1fd9776e4d3cbcd1a83a1f163b984a0972e21"
+  integrity sha512-zdxgIEddhfsyCaWpJ2SdXEP8ZMrKJ6+5jl4OupODcywU0IhRk6gdXuVGcPICyfx2H97hVK7xmJtRLPjkxAX8Vw==
 
 file-entry-cache@^6.0.1:
   version "6.0.1"
